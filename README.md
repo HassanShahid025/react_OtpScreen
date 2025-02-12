@@ -29,7 +29,7 @@ Ensure you have the following installed:
 ### Backend Setup
 1. Clone the repository:
    ```sh
-   git clone <your-repository-url>
+   git clone https://github.com/HassanShahid025/react_otpScreen
    cd server
    ```
 2. Install dependencies:
